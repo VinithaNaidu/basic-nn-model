@@ -110,20 +110,22 @@ marks_data.predict(X_n1_1)
 
 ```
 ## Dataset Information
-![Screenshot 2024-02-24 235751](https://github.com/Rama-Lekshmi/basic-nn-model/assets/118541549/9f8a04b6-c46d-4dec-b338-e5908b1708f2)
+![image](https://github.com/user-attachments/assets/586062d6-b56d-4097-89b6-bfb09cafe3c7)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![Screenshot 2024-02-25 000052](https://github.com/Rama-Lekshmi/basic-nn-model/assets/118541549/0a16ae8b-d4ea-4e2d-b228-3cc381f5accd)
+![image](https://github.com/user-attachments/assets/e3761337-a02d-4fc5-84e7-5986870804d8)
 
 ### Test Data Root Mean Squared Error
-![Screenshot 2024-02-25 000303](https://github.com/Rama-Lekshmi/basic-nn-model/assets/118541549/d493a408-97be-4317-8ecb-d7ccf9e35a8d)
+![image](https://github.com/user-attachments/assets/8fa95e87-3811-43cb-a71d-86e6629dfa20)
 
 
 ### New Sample Data Prediction
-![Screenshot 2024-02-25 000343](https://github.com/Rama-Lekshmi/basic-nn-model/assets/118541549/e6720ab4-f0fe-4094-b274-8fb76daab635)
+![image](https://github.com/user-attachments/assets/1b9298fb-7720-40aa-8652-7352101295ff)
+
 
 
 ## RESULT
