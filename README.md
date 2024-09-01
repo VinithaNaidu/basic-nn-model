@@ -69,11 +69,18 @@ print('The predicted output : ',a)
 #### Dataset:
 ![Screenshot 2024-08-19 095045](https://github.com/user-attachments/assets/44b17a31-1662-4435-aa09-2c64557e55f7)
 
+
+
 #### Training Loss Vs Iteration Plot:
-![Screenshot 2024-08-19 095004](https://github.com/user-attachments/assets/fd9b0e7c-ccdf-4810-9d43-b002f19c8228)
+
+![image](https://github.com/user-attachments/assets/2b7e6a49-6ffb-44ca-91cd-fb86294cce9b)
+
+
 
 #### Epoch:
-![image](https://github.com/user-attachments/assets/3467338a-5505-4699-98a5-3875daa72c9d)
+![image](https://github.com/user-attachments/assets/914a08c0-19dd-433e-ac79-ea1885b64e55)
+
+
 
 
 #### Test Data Root Mean Squared Error:
